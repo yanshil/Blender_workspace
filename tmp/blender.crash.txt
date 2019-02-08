@@ -1,0 +1,125 @@
+# Blender 2.79 (sub 0), Commit date: 2018-03-22 14:10, Hash f4dc9f9d68b
+bpy.context.space_data.lock_camera = True  # Property
+bpy.context.space_data.context = 'MATERIAL'  # Property
+bpy.context.scene.render.engine = 'CYCLES'  # Property
+bpy.data.window_managers["WinMan"].addon_search = "render"  # Property
+bpy.context.scene.render.engine = 'PRMAN_RENDER'  # Property
+bpy.ops.object.material_slot_add()  # Operator
+bpy.context.object.active_material_index = 0  # Property
+bpy.context.object.active_material_index = 1  # Property
+bpy.context.object.active_material_index = 1  # Property
+bpy.context.object.active_material_index = 1  # Property
+bpy.ops.object.material_slot_remove()  # Operator
+bpy.context.object.active_material_index = 0  # Property
+bpy.context.object.active_material.preview_render_type = 'FLAT'  # Property
+bpy.context.object.active_material.preview_render_type = 'SPHERE'  # Property
+bpy.context.object.active_material.diffuse_color = (0.8, 0.607865, 0.780971)  # Property
+bpy.context.object.active_material.diffuse_color = (0.727189, 0.235249, 0.8)  # Property
+bpy.context.object.active_material.diffuse_color = (0.163052, 0.101614, 0.8)  # Property
+bpy.context.object.active_material.diffuse_color = (0.10067, 0.227046, 0.8)  # Property
+bpy.context.object.active_material.diffuse_color = (0.221265, 0.626242, 0.8)  # Property
+bpy.context.object.active_material.diffuse_color = (0.237681, 0.667857, 0.8)  # Property
+bpy.context.object.active_material.diffuse_color = (0.237681, 0.667857, 0.8)  # Property
+bpy.context.object.active_material.renderman.displacementbound = 0.5  # Property
+bpy.context.object.active_material.type = 'WIRE'  # Property
+bpy.context.object.active_material.type = 'VOLUME'  # Property
+bpy.context.object.active_material.type = 'HALO'  # Property
+bpy.context.object.active_material.type = 'SURFACE'  # Property
+bpy.context.object.active_material.preview_render_type = 'CUBE'  # Property
+bpy.context.object.active_material.preview_render_type = 'MONKEY'  # Property
+bpy.context.object.active_material.preview_render_type = 'HAIR'  # Property
+bpy.context.object.active_material.preview_render_type = 'SPHERE_A'  # Property
+bpy.context.object.active_material.preview_render_type = 'FLAT'  # Property
+bpy.ops.transform.translate(value=(0, 0, 0), constraint_axis=(True, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1, release_confirm=True, use_accurate=False)  # Operator
+bpy.ops.transform.translate(value=(0, 0, 0), constraint_axis=(False, False, False), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1, release_confirm=True, use_accurate=False)  # Operator
+bpy.context.object.active_material.preview_render_type = 'SPHERE'  # Property
+bpy.ops.transform.translate(value=(0, 0, 0), constraint_axis=(False, False, True), constraint_orientation='GLOBAL', mirror=False, proportional='DISABLED', proportional_edit_falloff='SMOOTH', proportional_size=1, release_confirm=True, use_accurate=False)  # Operator
+bpy.context.object.active_material.preview_render_type = 'FLAT'  # Property
+bpy.context.object.active_material.specular_color = (0.312354, 1, 0.304919)  # Property
+bpy.context.object.active_material.specular_color = (0.312354, 1, 0.304919)  # Property
+bpy.context.object.active_material.diffuse_color = (0.237681, 0.667857, 0.8)  # Property
+bpy.context.object.active_material.diffuse_color = (0.0341267, 0.8, 0.34343)  # Property
+bpy.context.object.active_material.diffuse_color = (0.0341267, 0.8, 0.34343)  # Property
+bpy.context.object.active_material.specular_color = (0.312354, 1, 0.304919)  # Property
+bpy.context.object.active_material.diffuse_color = (0.326939, 0.411544, 0.8)  # Property
+bpy.context.object.active_material.diffuse_color = (0.326939, 0.411544, 0.8)  # Property
+Converting material Material to RenderMan  # Info
+bpy.data.node_groups["Shader Nodetree"].nodes["PxrSurface"].enableGlass = True  # Property
+bpy.data.node_groups["Shader Nodetree"].nodes["PxrSurface"].enableGlass = False  # Property
+bpy.data.node_groups["Shader Nodetree"].nodes["PxrSurface"].utilityPattern[0] = 0  # Property
+bpy.data.node_groups["Shader Nodetree"].nodes["PxrMeshLight"].Basic_uio = True  # Property
+bpy.data.node_groups["Shader Nodetree"].nodes["PxrMeshLight"].Basic_uio = False  # Property
+bpy.context.object.data.type = 'SUN'  # Property
+bpy.context.object.data.type = 'POINT'  # Property
+bpy.context.object.data.type = 'SPOT'  # Property
+bpy.context.object.data.type = 'POINT'  # Property
+bpy.context.object.data.type = 'SPOT'  # Property
+bpy.context.object.data.type = 'HEMI'  # Property
+bpy.context.object.data.type = 'AREA'  # Property
+bpy.context.object.data.type = 'SUN'  # Property
+bpy.context.object.data.type = 'POINT'  # Property
+bpy.context.object.data.type = 'SUN'  # Property
+bpy.context.object.data.renderman.PxrDistantLight_settings.Notes_uio = True  # Property
+bpy.context.object.data.renderman.PxrDistantLight_settings.Notes_uio = False  # Property
+bpy.context.object.data.renderman.PxrDistantLight_settings.Basic_uio = True  # Property
+bpy.context.object.data.renderman.PxrDistantLight_settings.Basic_uio = False  # Property
+bpy.context.space_data.context = 'OBJECT'  # Property
+bpy.context.space_data.context = 'WORLD'  # Property
+bpy.context.space_data.context = 'MATERIAL'  # Property
+bpy.context.space_data.context = 'RENDER'  # Property
+Texture generation took 00:00:00  # Info
+Rib gen error: Traceback (most recent call last):
+  File "/home/yanshi/.config/blender/2.79/scripts/addons/RenderManForBlender-master/engine.py", line 142, in update
+    engine.render_pass.gen_rib(engine=engine)
+  File "/home/yanshi/.config/blender/2.79/scripts/addons/RenderManForBlender-master/engine.py", line 789, in gen_rib
+    write_rib(self, self.scene, self.ri, visible_objects, engine, do_objects)
+  File "/home/yanshi/.config/blender/2.79/scripts/addons/RenderManForBlender-master/export.py", line 3473, in write_rib
+    export_display(ri, rpass, scene)
+  File "/home/yanshi/.config/blender/2.79/scripts/addons/RenderManForBlender-master/export.py", line 3193, in export_display
+    ri.Display(main_display, display_driver, "rgba", display_params)
+TypeError: Problem parsing parameterlist entry: string exrheader_user
+  # Error
+RenderMan: Exited  # Error
+bpy.context.scene.render.display_mode = 'WINDOW'  # Property
+bpy.context.scene.render.display_mode = 'NONE'  # Property
+bpy.context.scene.render.display_mode = 'AREA'  # Property
+bpy.context.scene.render.display_mode = 'NONE'  # Property
+
+# backtrace
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(BLI_system_backtrace+0x20) [0x1a6c700]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x1078395]
+/lib/x86_64-linux-gnu/libc.so.6(+0x354b0) [0x7f870670c4b0]
+/opt/pixar/RenderManProServer-21.7/bin/../lib/libprman.so(+0xf2f52a) [0x7f86d776052a]
+/opt/pixar/RenderManProServer-21.7/bin/../lib/libprman.so(PRManBegin+0x288) [0x7f86d6997a18]
+/opt/pixar/RenderManProServer-21.7/bin/prman_for_python_35.so(+0x1c513) [0x7f86d65f4513]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(PyCFunction_Call+0xb9) [0x2e9d579]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(PyEval_EvalFrameEx+0x81ec) [0x2f16d7c]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x2f1869e]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(PyEval_EvalFrameEx+0x6c8a) [0x2f1581a]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x2f1869e]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(PyEval_EvalCodeEx+0x23) [0x2f18773]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x2e79746]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(PyObject_Call+0x5c) [0x2e4f06c]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x2e68e34]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(PyObject_Call+0x5c) [0x2e4f06c]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x2eba59b]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x2eb4cba]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(PyObject_Call+0x5c) [0x2e4f06c]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(PyEval_EvalFrameEx+0x3812) [0x2f123a2]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x2f1869e]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(PyEval_EvalFrameEx+0x6c8a) [0x2f1581a]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x2f1869e]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(PyEval_EvalCodeEx+0x23) [0x2f18773]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x2e79674]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(PyObject_Call+0x5c) [0x2e4f06c]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x1472964]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x19a7cd7]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(RE_engine_render+0x312) [0x13f1c92]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x14046e9]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x1404d18]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x140814a]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender(RE_BlenderFrame+0xbe) [0x140879e]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x134a121]
+/home/yanshi/Applications/blender-2.79b-linux-glibc219-x86_64/blender() [0x10887ba]
+/lib/x86_64-linux-gnu/libpthread.so.0(+0x76ba) [0x7f8707ef16ba]
+/lib/x86_64-linux-gnu/libc.so.6(clone+0x6d) [0x7f87067de41d]
