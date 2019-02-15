@@ -27,3 +27,11 @@
 	* Key frame in Curve - Start and End
 	* Select - All by Type - Curve
 	* Ctrl + L: Copy *animation data* from Active object to others that have been selected
+
+* [Handle2](https://www.youtube.com/watch?v=3lX0tg7CEJw)
+	* Face mode: E(Darg out)
+	* I: 
+	* Mesh -> Edge -> Bridge Edge Loops
+	* Render Layer: Dinosing
+
+* [Photo and Rendering](https://www.youtube.com/watch?v=2-_xLCOqWQs)
