@@ -27,3 +27,9 @@
 	* Key frame in Curve - Start and End
 	* Select - All by Type - Curve
 	* Ctrl + L: Copy *animation data* from Active object to others that have been selected
+
+* [Light Bulb]
+	* https://www.youtube.com/watch?v=W-wPIfSHMLM
+	* https://www.youtube.com/watch?v=19wQK2gAE44
+	* https://www.youtube.com/watch?v=m59w8C_sIvE&t=55s
+	* https://docs.blender.org/manual/zh-hans/dev/modeling/meshes/editing/duplicating/screw.html?highlight=screw#fig-mesh-screw-spring
