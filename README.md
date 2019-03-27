@@ -33,3 +33,8 @@
 	* https://www.youtube.com/watch?v=19wQK2gAE44
 	* https://www.youtube.com/watch?v=m59w8C_sIvE&t=55s
 	* https://docs.blender.org/manual/zh-hans/dev/modeling/meshes/editing/duplicating/screw.html?highlight=screw#fig-mesh-screw-spring
+
+* [ArchiMesh](https://www.artstation.com/artwork/yXDmQ)
+	* https://www.houzz.com/photos/patrician-project-bathroom-traditional-bathroom-dallas-phvw-vp~88332830
+
+* [Bottles](https://www.artstation.com/shubhmehta)
