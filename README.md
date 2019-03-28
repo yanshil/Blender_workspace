@@ -36,5 +36,6 @@
 
 * [ArchiMesh](https://www.artstation.com/artwork/yXDmQ)
 	* https://www.houzz.com/photos/patrician-project-bathroom-traditional-bathroom-dallas-phvw-vp~88332830
+	* Brighter texture?Color mix nodes. https://blenderartists.org/t/cycles-material-brightness/531401
 
 * [Bottles](https://www.artstation.com/shubhmehta)
