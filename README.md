@@ -39,3 +39,9 @@
 	* Brighter texture?Color mix nodes. https://blenderartists.org/t/cycles-material-brightness/531401
 
 * [Bottles](https://www.artstation.com/shubhmehta)
+
+* [Materials]
+	* Material: http://matrep.parastudios.de/
+	* Texture: https://www.textures.com/
+	* Idea arouse from:  https://blender.stackexchange.com/questions/109899/how-to-create-this-colorful-metal-material
+	* PBR: https://www.blenderguru.com/tutorials/pbr-shader-tutorial-pt1
