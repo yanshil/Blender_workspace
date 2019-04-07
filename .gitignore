@@ -1,3 +1,5 @@
 *.avi
 *.blend1
 
+blendcache_smoke2/
+.mayaSwatches
