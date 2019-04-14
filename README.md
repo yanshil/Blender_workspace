@@ -45,3 +45,10 @@
 	* Texture: https://www.textures.com/
 	* Idea arouse from:  https://blender.stackexchange.com/questions/109899/how-to-create-this-colorful-metal-material
 	* PBR: https://www.blenderguru.com/tutorials/pbr-shader-tutorial-pt1
+* [Fog](East fog with Volume Scatter)
+	* Filmic Color and Glare Layer for Light
+	* Advanced volumetric fogs: https://www.youtube.com/watch?v=AXjE-t6dFZ8
+---
+
+## Add-ons
+* Instant remesh: https://github.com/wjakob/instant-meshes
