@@ -1,7 +1,7 @@
 *.avi
 *.blend1
+.mayaSwatches/
 
 blendcache_smoke2/
-.mayaSwatches
 cache_fluid/
 font/
